@@ -38,7 +38,7 @@ pagination: false
 - Do-Yeon Kim, Daehyun Kim, and **Pedro. Angulo-Umana**: Tropical convective rain becomes more localized under global warming (In preparation)
 - **Pedro Angulo-Umana**, Daehyun Kim, Peter N. Blossey, Do-Yeon Kim: The Morphology of Extreme Tropical Precipitation: Insights from Observations and Models (In preparation)
 - Sara Shamekh, **Pedro Angulo-Umana**, Paul O’Gorman: Data-driven Modeling of Stratiform and Convective Rain Area (Submitted)
-- **Pedro Angulo-Umana**, Daehyun Kim, Peter N. Blossey, and Marat Khairoutdinov: Multiscale convective circulations and scale interactions in a global storm-permitting model, J. Adv. Model. Earth Syst. 
+- **Pedro Angulo-Umana**, Daehyun Kim, Peter N. Blossey, and Marat Khairoutdinov: Multiscale convective circulations and scale interactions in a global storm-permitting model, J. Adv. Model. Earth Syst. (Accepted)
 
 ### Published articles
 - **Pedro Angulo-Umana** and Daehyun Kim: Mesoscale convective clustering enhances tropical precipitation, Science Advances [DOI:10.1126/sciadv.abo5317](https://www.science.org/doi/10.1126/sciadv.abo5317)
