@@ -6,7 +6,7 @@ baseurl: ""  # keep empty for user.github.io site
 
 markdown: kramdown
 
- plugins:
+plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-seo-tag
