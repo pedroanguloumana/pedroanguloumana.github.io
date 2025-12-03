@@ -1,11 +1,15 @@
-title: "Your Name"
-name: "Your Name"
-description: "Tropical meteorology · Atmospheric convection · [or your tagline]"
-url: "https://your-username.github.io"
+title: "Pedro Angulo-Umana, Ph.D"
+name: "Pedro"
+description: "Tropical meteorology · Atmospheric convection · "
+url: "https://pedroanguloumana.github.io/"
 baseurl: ""  # keep empty for user.github.io site
 
 markdown: kramdown
-
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+    
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
@@ -14,30 +18,10 @@ plugins:
 remote_theme: "mmistakes/minimal-mistakes"
 
 # Minimal Mistakes specific:
-minimal_mistakes_skin: "default" # or "air", "contrast", etc.
+minimal_mistakes_skin: "sunrise" # or "air", "contrast", etc.
+
 
 author:
-  name: "Your Name"
-  bio: "Short 1–2 sentence bio about your research."
-  avatar: "/assets/images/profile.jpg"
-
-# Navigation links
-nav:
-  - title: "Home"
-    url: /
-  - title: "Research"
-    url: /research/
-  - title: "Publications"
-    url: /publications/
-  - title: "CV"
-    url: /cv/
-
-# Social links (optional)
-footer:
-  links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:you@example.com"
-    - label: "Google Scholar"
-      icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/..."
+  # name: "Your Name"
+  # bio: "Short 1–2 sentence bio about your research."
+  avatar: "assets/images/headshot_touched.png"

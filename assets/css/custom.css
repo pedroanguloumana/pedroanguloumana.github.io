@@ -1,0 +1,19 @@
+
+/* .page__sidebar {
+  flex: 0 0 200;   
+  max-width: 200px;
+} */
+
+.hero-headshot {
+  width: 250px;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto 1.5rem auto;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.15);
+}
+
+a[href$="feed.xml"],
+a[href$="feed.xml"] + span {
+  display: none !important;
+}
