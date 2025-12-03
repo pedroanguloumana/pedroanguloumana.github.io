@@ -1,0 +1,44 @@
+title: "Your Name"
+name: "Your Name"
+description: "Tropical meteorology · Atmospheric convection · [or your tagline]"
+url: "https://your-username.github.io"
+baseurl: ""  # keep empty for user.github.io site
+
+theme: minima  # we’ll override with remote_theme below
+
+markdown: kramdown
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Minimal Mistakes specific:
+minimal_mistakes_skin: "default" # or "air", "contrast", etc.
+
+author:
+  name: "Your Name"
+  bio: "Short 1–2 sentence bio about your research."
+  avatar: "/assets/images/profile.jpg"
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /cv/
+
+# Social links (optional)
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:you@example.com"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/..."
