@@ -4,12 +4,11 @@ description: "Tropical meteorology · Atmospheric convection · [or your tagline
 url: "https://your-username.github.io"
 baseurl: ""  # keep empty for user.github.io site
 
-theme: minima  # we’ll override with remote_theme below
-
 markdown: kramdown
 
-plugins:
+ plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
   - jekyll-seo-tag
 
 remote_theme: "mmistakes/minimal-mistakes"
