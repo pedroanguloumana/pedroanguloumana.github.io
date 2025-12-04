@@ -20,7 +20,7 @@ pagination: false
     - Dissertation: [The Multiscale Nature of Tropical Convection in Observations and Models](/assets/docs/PedroAnguloUmana_Thesis-2.pdf) 
     - Advisors: Peter Blossey and Daehyun Kim
 
-- **M.S. in Atmospheric and Climate Science, University of Washington, 2023**
+- **M.S. in Atmospheric and Climate Science, University of Washington, 2022**
     - Thesis: [The Enhancement of Precipitation due to Mesoscale Convective Organization](/assets/docs/masters_thesis.pdf) 
     - Advisor: Daehyun Kim
 
