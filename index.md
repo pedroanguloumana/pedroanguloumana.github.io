@@ -4,7 +4,7 @@ title: "Home"
 # author_profile: true
 permalink: /
 ---
-<img src="/assets/images/headshot_touched.png" class="hero-headshot" alt="Pedro Angulo-Umana" />
+<img src="/assets/images/headshot_scaled.png" class="hero-headshot" alt="Pedro Angulo-Umana" />
 Welcome to my homepage!
 
 I am a postdoctoral scholar in the [Convective Systems/Tropical Dynamics Laboratory](https://sites.google.com/snu.ac.kr/tropicalconvectionandwaves) at the [School of Earth and Environmental Sciences](https://sees.snu.ac.kr/en) of [Seoul National University](https://en.snu.ac.kr/index.html) in Seoul, South Korea. I am broadly interested in tropical meteorology, with particular interest in how tropical circulations couple to deep convection. 
