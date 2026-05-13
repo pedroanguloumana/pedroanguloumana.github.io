@@ -18,10 +18,10 @@ plugins:
 remote_theme: "mmistakes/minimal-mistakes"
 
 # Minimal Mistakes specific:
-minimal_mistakes_skin: "sunrise" # or "air", "contrast", etc.
+minimal_mistakes_skin: "air" # or "air", "contrast", etc.
 
 
 author:
   # name: "Your Name"
   # bio: "Short 1–2 sentence bio about your research."
-  avatar: "assets/images/headshot_scaled.png"
+  # avatar: "assets/images/headshot_scaled.png"

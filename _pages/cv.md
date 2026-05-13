@@ -35,13 +35,18 @@ pagination: false
 
 ## Publications
 ### Manuscripts in preparation & in press
-- Do-Yeon Kim, Daehyun Kim, and **Pedro. Angulo-Umana**: Tropical convective rain becomes more localized under global warming (In preparation)
-- **Pedro Angulo-Umana**, Daehyun Kim, Peter N. Blossey, Do-Yeon Kim: The Morphology of Extreme Tropical Precipitation: Insights from Observations and Models (In preparation)
-- Sara Shamekh, **Pedro Angulo-Umana**, Paul O’Gorman: Data-driven Modeling of Stratiform and Convective Rain Area (Submitted)
-- **Pedro Angulo-Umana**, Daehyun Kim, Peter N. Blossey, and Marat Khairoutdinov: Multiscale convective circulations and scale interactions in a global storm-permitting model, J. Adv. Model. Earth Syst. (Accepted)
+
+1. Do-Yeon Kim, Daehyun Kim, and **Pedro Angulo-Umana**. Tropical convective rain becomes more localized under global warming. *In preparation.*
+
+2. **Pedro Angulo-Umana**, Daehyun Kim, Peter N. Blossey, and Do-Yeon Kim. Morphological characteristics of tropical precipitation features producing extreme instantaneous rain rates in GPM and DYAMOND global storm resolving models. *Submitted.*
 
 ### Published articles
-- **Pedro Angulo-Umana** and Daehyun Kim: Mesoscale convective clustering enhances tropical precipitation, Science Advances [DOI:10.1126/sciadv.abo5317](https://www.science.org/doi/10.1126/sciadv.abo5317)
+
+1. Shamekh, S., **P. Angulo-Umana**, and P. A. O'Gorman (2026). Data-driven modeling of stratiform and convective rain area. *Journal of the Atmospheric Sciences*, e250178. [https://doi.org/10.1175/JAS-D-25-0178.1](https://doi.org/10.1175/JAS-D-25-0178.1) *(in press)*
+
+2. **Pedro Angulo-Umana**, Daehyun Kim, Peter N. Blossey, and Marat Khairoutdinov (2025). Multiscale convective circulations and scale interactions in a global storm-resolving model. *Journal of Advances in Modeling Earth Systems*, 18, e2025MS005032. [https://doi.org/10.1029/2025MS005032](https://doi.org/10.1029/2025MS005032)
+
+3. **Pedro Angulo-Umana** and Daehyun Kim (2023). Mesoscale convective clustering enhances tropical precipitation. *Science Advances*, 9, eabo5317. [https://doi.org/10.1126/sciadv.abo5317](https://doi.org/10.1126/sciadv.abo5317)
 
 ## Conference Presentations
 - "Multiscale Convective Circulations in a Global Storm-Resolving Model", presented at 4th Workshop on Convective Organization and Precipitation Extremes, ICTP, Trieste, Italy, June 2024.
