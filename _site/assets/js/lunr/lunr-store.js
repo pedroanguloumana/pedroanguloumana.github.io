@@ -10,4 +10,10 @@ var store = [{
         "tags": [],
         "url": "/research/",
         "teaser": null
+      },{
+        "title": "",
+        "excerpt":"Hi  ","categories": [],
+        "tags": [],
+        "url": "/writing/",
+        "teaser": null
       },]

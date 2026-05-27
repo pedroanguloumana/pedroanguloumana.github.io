@@ -1,0 +1,95 @@
+
+
+
+
+- date: "May 2026"
+  text: "I'm a co-author on a study, led by Professor Sara Shamekh, that uses machine learning to discover interpretable equations that describe what determines convective and stratiform precipitation areas, that was published in [JAS](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-25-0178.1/JAS-D-25-0178.1.xml)"
+
+
+
+
+- date: "December 2025"
+  text: "My paper, \"Multiscale Convective Circulations and Scale Interactions in a Global Storm-Resolving Model\",  has been published in [JAMES](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025MS005032)."
+
+
+
+
+
+
+
+- date: "September 2025"
+  text: "I gave a department seminar at SNU, sharing my research on the connection between the spatial shape of tropical precipitation systems and their capacity to produce extreme rain events."
+  images:
+    - src: /assets/images/SNU_Talk.PNG
+      class: wide
+
+
+
+- date: "July 2025"
+  text: "I presented my research on multiscale circulations in a global storm-resolving model at [BACO-25](https://baco-25.org/new/sub1/sub11.asp) in Busan."
+
+- date: "July 2025"
+  text: "I began my postdoc at Seoul National University, working with Daehyun Kim."
+  images:
+    - src: /assets/images/sea_to_icn.jpg
+      class: wide
+
+- date: "March, 2025"
+  text: "I defended my PhD dissertation. While I am generally wary of numerology, I choose to take my defense date being π-day as a good omen."
+  images:
+    - src: /assets/images/phd_poster.jpg
+      class: wide
+
+
+
+- date: "January 2023"
+  text: "Presented a poster, [Investigating the Influence of Mesoscale Convective Organization on Tropical Precipitation in a Global Cloud Resolving Mode](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/421710), at the Annual Meeting of the AMS in Denver, Colorado."
+
+- date: "January 2023"
+  text: "My paper, \"Mesoscale convective clustering enhances tropical precipitation\", co-authored with my advisor Daehyun Kim, has been published in [Science Advances](https://www.science.org/doi/10.1126/sciadv.abo5317). I am officially a published climate scientist!"
+
+- date: "September 2023"
+  text: "I was able to participate in a two week intensive course on atmospheric instrumentation and ARM an [Pacific Northwest National Laboratory](https://armgov.svcs.arm.gov/news/facility/post/82899). I'm extremely grateful to Professor Lynn McMurdie and Lexie Goldberger for organizing the course, and to all the PNNL scientists who took the time to teach us lowly graduate students about how atmospheric observations are taken and processed."
+  images: 
+    - src: /assets/images/pnnl_course.jpg
+      class: wide
+
+- date: "July 2022"
+  text: "I got to participate in the delightfully-named [Rossbypalooza summer school](http://www.rossbypalooza.org/rossby2022/), hosted by the University of Chicago. This year's topic was \"Clouds and convection in diverse climates\". I greatly enjoyed the getting to make so many friends from other institutions who also like thinking about moist convection on Earth and/or other planets!"
+  images: 
+    - src: /assets/images/rossbypalooza.jpeg
+      class: wide
+    - src: /assets/images/rossbypalooza_2.jpeg
+      class: wide
+
+- date: "March 2022"
+  text: "I defended my Master's thesis work on the effects of mesoscale convective clustering on tropical precipitation. I am now, officially, a Master of Science™!"
+  images:
+    - src: /assets/images/masters_announcement.jpg
+      class: wide
+
+
+- date: "Summer 2021"
+  text: "I got the chance to teach (like *really* teach) Introduction to Climate and Climate Change (ATMS 211) this summer. Preparing and recording five virtual lectures a week, designing and grading assignments, and hosting office hours was as taxing as it was rewarding.."
+  images:
+    - src: /assets/images/teaching_211.jpg
+      class: wide
+
+- date: "March 2021"
+  text: "I'm honored to have received an Honorable Mention from the NSF Graduate Research Fellowship Program."
+
+- date: "September 2020"
+  text: "I got to co-chair a session on extreme precipitation at the [Summer Institute on Climate Extremes and Climate and Environmental Equity](https://pcc.uw.edu/2020/10/08/2020-pcc-si-climate-extremes-and-climate-and-environmental-equity/), hosted by the [University of Washington Program on Climate Change](https://pcc.uw.edu/)"
+
+- date: "July 2020"
+  text: "Finished my first year at the University of Washington! I got my first real taste of graduate coursework, research, and giving talks."
+  images:
+    # - src: /assets/images/first_year.jpeg
+
+- date: "September 2019"
+  text: "Moved from Minnesota to Seattle to begin my PhD at the University of Washington."
+  images: 
+  - src: /assets/images/cross_country.jpg
+    class: wide
+  - src: /assets/images/state_fair.jpg
+  - src: /assets/images/camping.jpg

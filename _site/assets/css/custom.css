@@ -6,7 +6,7 @@
 
 .hero-headshot {
   width: 100%;
-  max-width: 550px;
+  max-width: 650px;
   height: auto;
   border-radius: 2px;
   display: block;
@@ -17,4 +17,37 @@
 a[href$="feed.xml"],
 a[href$="feed.xml"] + span {
   display: none !important;
+}
+
+.news-item {
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  line-height: 1.6;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12)
+}
+
+.news-item:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+.news-item strong {
+  color: #555;
+}
+.news-images {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-top: 0.5rem;
+}
+.news-image {
+  display: block;
+  width: 100%;
+  max-width: 250px;   /* smaller cap since they may sit side by side */
+  height: auto;
+  border-radius: 1px;
+}
+.news-image.wide {
+  max-width: 100%;      /* let it use the full column width */
+  width: 80%;
 }
