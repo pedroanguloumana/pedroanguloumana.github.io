@@ -11,6 +11,12 @@ I am a postdoctoral scholar in the [Convective Systems/Tropical Dynamics Laborat
 
 I obtained my PhD in Atmospheric and Climate Science from the [University of Washington](https://atmos.uw.edu/) under the supervision of Professors [Peter Blossey](https://www.atmos.washington.edu/~bloss/) and [Daehyun Kim](https://sees.snu.ac.kr/en/research-faculty/faculty/fulltime?mode=view&profidx=86) (now at SNU). My dissertation investigated the dynamics of tropical convection and precipitation at a range of scales, from individual convective systems to large-scale circulations. 
 
+
+- <i class="fa-solid fa-envelope"></i> pangulo96 at snu dot ac dot kr  
+- <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=Z_vfyKkAAAAJ&hl=en)
+- <i class="fa-brands fa-github"></i> [Github](https://github.com/pedroanguloumana)
+
+
 ## News
 
 {% for item in site.data.news %}
@@ -26,7 +32,3 @@ I obtained my PhD in Atmospheric and Climate Science from the [University of Was
 </div>
 {% endfor %}
 
-
-- <i class="fa-solid fa-envelope"></i> pangulo96 at snu dot ac dot kr  
-- <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=Z_vfyKkAAAAJ&hl=en)
-- <i class="fa-brands fa-github"></i> [Github](https://github.com/pedroanguloumana)
