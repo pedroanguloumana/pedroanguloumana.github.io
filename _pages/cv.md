@@ -12,8 +12,7 @@ toc: false
 pagination: false
 ---
 
-<!-- You can [download a PDF version of my CV](/assets/cv/your-cv.pdf) -->
-
+[Download a PDF version of my CV](/assets/cv/angulo-umana-cv.pdf){: .pdf-download-link}
 
 ## Education
 - **Ph.D. in Atmospheric and Climate Science, University of Washington, 2025**
@@ -95,7 +94,7 @@ Facilitator in the Peer-Assisted Learning (PAL) program[^pal] at the University 
     - Research area: Convectively coupled equatorial waves 
 
 ### Undergraduate Researchers
-- **Jon Liu**, University of Washington. 2021
+- **Jon Liu**, University of Washington, 2021
     - Project: Moisture-precipitation coupling in global storm-resolving models
 - **Arjun Subramanian**, University of Washington. 2022
     - Project: Heatwaves and global warming in CMIP6 models

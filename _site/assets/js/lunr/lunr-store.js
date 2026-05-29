@@ -1,6 +1,6 @@
 var store = [{
         "title": "",
-        "excerpt":"Education Ph.D. in Atmospheric and Climate Science, University of Washington, 2025 Dissertation: The Multiscale Nature of Tropical Convection in Observations and Models Advisors: Peter Blossey and Daehyun Kim M.S. in Atmospheric and Climate Science, University of Washington, 2022 Thesis: The Enhancement of Precipitation due to Mesoscale Convective Organization Advisor: Daehyun...","categories": [],
+        "excerpt":"Download a PDF version of my CV Education Ph.D. in Atmospheric and Climate Science, University of Washington, 2025 Dissertation: The Multiscale Nature of Tropical Convection in Observations and Models Advisors: Peter Blossey and Daehyun Kim M.S. in Atmospheric and Climate Science, University of Washington, 2022 Thesis: The Enhancement of Precipitation...","categories": [],
         "tags": [],
         "url": "/cv/",
         "teaser": null
