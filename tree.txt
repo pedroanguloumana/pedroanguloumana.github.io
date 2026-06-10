@@ -1,4 +1,6 @@
 .
+├── Gemfile
+├── Gemfile.lock
 ├── _config.yml
 ├── _data
 │   ├── navigation.yml
@@ -8,6 +10,8 @@
 │   │   └── custom.html
 │   └── post_pagination.html
 ├── _pages
+│   ├── _posts
+│   │   └── 2026-06-02-VerticalNormalModeLectureNotes.md
 │   ├── cv.md
 │   ├── research.md
 │   └── writing.md
@@ -19,11 +23,16 @@
 │   │   ├── cv
 │   │   │   └── angulo-umana-cv.pdf
 │   │   ├── docs
-│   │   │   ├── masters_thesis.pdf
 │   │   │   ├── PedroAnguloUmana_Thesis-2.pdf
 │   │   │   ├── Tried and Tweaked Activity Book.pdf
-│   │   │   └── Two (or More) Heads.pdf
+│   │   │   ├── Two (or More) Heads.pdf
+│   │   │   ├── masters_thesis.pdf
+│   │   │   └── vertical_normal_modes.pdf
 │   │   ├── images
+│   │   │   ├── NYC.jpg
+│   │   │   ├── NYC.png
+│   │   │   ├── SNU_Talk.PNG
+│   │   │   ├── WCO4.jpg
 │   │   │   ├── camping.jpg
 │   │   │   ├── catppuccin_latte-skin-archive-large.png
 │   │   │   ├── catppuccin_mocha-skin-archive-large.png
@@ -31,19 +40,19 @@
 │   │   │   ├── first_year.jpeg
 │   │   │   ├── headshot_touched.png
 │   │   │   ├── masters_announcement.jpg
-│   │   │   ├── NYC.jpg
-│   │   │   ├── NYC.png
 │   │   │   ├── phd_poster.jpg
 │   │   │   ├── pnnl_course.jpg
-│   │   │   ├── rossbypalooza_2.jpeg
+│   │   │   ├── posts
+│   │   │   │   ├── VNM_Notes.pdf
+│   │   │   │   ├── VNM_Notes.png
+│   │   │   │   └── VNM_Notes_EquivDepths.png
 │   │   │   ├── rossbypalooza.jpeg
+│   │   │   ├── rossbypalooza_2.jpeg
 │   │   │   ├── sea_2_icn.jpg
-│   │   │   ├── SNU_Talk.PNG
 │   │   │   ├── state_fair.jpg
 │   │   │   ├── summer_school_2024_ictp.jpg
 │   │   │   ├── teaching_211.jpg
-│   │   │   ├── team_project.jpeg
-│   │   │   └── WCO4.jpg
+│   │   │   └── team_project.jpeg
 │   │   └── js
 │   │       ├── _main.js
 │   │       ├── lunr
@@ -82,31 +91,34 @@
 │   ├── cv
 │   │   └── angulo-umana-cv.pdf
 │   ├── docs
-│   │   ├── masters_thesis.pdf
 │   │   ├── PedroAnguloUmana_Thesis-2.pdf
 │   │   ├── Tried and Tweaked Activity Book.pdf
-│   │   └── Two (or More) Heads.pdf
+│   │   ├── Two (or More) Heads.pdf
+│   │   ├── masters_thesis.pdf
+│   │   └── vertical_normal_modes.pdf
 │   └── images
+│       ├── NYC.jpg
+│       ├── NYC.png
+│       ├── SNU_Talk.PNG
+│       ├── WCO4.jpg
 │       ├── camping.jpg
 │       ├── cross_country.jpg
 │       ├── first_year.jpeg
 │       ├── headshot_touched.png
 │       ├── masters_announcement.jpg
-│       ├── NYC.jpg
-│       ├── NYC.png
 │       ├── phd_poster.jpg
 │       ├── pnnl_course.jpg
-│       ├── rossbypalooza_2.jpeg
+│       ├── posts
+│       │   ├── VNM_Notes.pdf
+│       │   ├── VNM_Notes.png
+│       │   └── VNM_Notes_EquivDepths.png
 │       ├── rossbypalooza.jpeg
+│       ├── rossbypalooza_2.jpeg
 │       ├── sea_2_icn.jpg
-│       ├── SNU_Talk.PNG
 │       ├── state_fair.jpg
 │       ├── summer_school_2024_ictp.jpg
 │       ├── teaching_211.jpg
-│       ├── team_project.jpeg
-│       └── WCO4.jpg
-├── Gemfile
-├── Gemfile.lock
+│       └── team_project.jpeg
 ├── google368de212987466f9.html
 ├── index.md
 ├── scripts
@@ -114,4 +126,4 @@
 │   └── cv-style.tex
 └── tree.txt
 
-26 directories, 89 files
+29 directories, 98 files

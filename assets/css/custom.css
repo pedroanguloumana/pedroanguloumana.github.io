@@ -51,3 +51,11 @@ a[href$="feed.xml"] + span {
   max-width: 100%;      /* let it use the full column width */
   width: 80%;
 }
+
+.post-image {
+  display: block;
+  width: 100%;
+  max-width: 450px;
+  height: auto;
+  margin: 1.5rem auto;
+}
