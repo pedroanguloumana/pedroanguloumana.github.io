@@ -1,1 +1,5 @@
 _site/
+.jekyll-cache/
+.jekyll-metadata
+.claude/
+.DS_Store
