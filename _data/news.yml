@@ -1,4 +1,10 @@
 
+- date: "July 2026"
+  text: "I presented a poster at the [km-scale Global Modelling Summit](https://km-scale-summit-26.org/) in Hamburg, Germany."
+  images:
+    - src: assets/images/kmscale_worldcup.jpg
+    - src: assets/images/hamburg.jpg
+
 
 - date: "May 2026"
   text: "I was invited to give a guest lecture for the SNU graduate tropical meteorology class on the subject of vertical normal modes. The lecture notes I wrote in preparation are available [here](assets/docs/vertical_normal_modes.pdf)"
