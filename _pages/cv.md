@@ -37,7 +37,7 @@ pagination: false
 ### Manuscripts in Preparation & in Press
 
 1. Do-Yeon Kim, Daehyun Kim, and **Pedro Angulo-Umana**. Tropical convective rain becomes more localized under global warming. *In preparation.*
-2. **Pedro Angulo-Umana**, Daehyun Kim, Peter N. Blossey, and Do-Yeon Kim. Morphological characteristics of tropical precipitation features producing extreme instantaneous rain rates in GPM and DYAMOND global storm resolving models. *Submitted.*
+2. **Pedro Angulo-Umana**, Daehyun Kim, Peter N. Blossey, and Do-Yeon Kim. Morphological characteristics of tropical precipitation features producing extreme instantaneous rain rates in GPM and DYAMOND global storm resolving models. *In revision.*
 
 ### Published Articles
 
@@ -54,6 +54,7 @@ pagination: false
 - "[Quantifying the Enhancement of Tropical Precipitation due to Mesoscale Convective Organization](https://ams.confex.com/ams/102ANNUAL/meetingapp.cgi/Paper/397298)," 102nd American Meteorological Society Annual Meeting, Virtual, January 2022.
 
 ### Posters
+- "The Spatial Morphology of Tropical Precipitation Extremes in GPM Observations and DYAMOND models", km-scale Global Modelling Summit, Hamburg, Germany, July, 2026.
 - "[Investigating the Influence of Mesoscale Convective Organization on Tropical Precipitation in a Global Cloud-Resolving Model](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/421710)," 103rd American Meteorological Society Annual Meeting, Denver, Colorado, January 2023.
 - "Automatic Classification of Anthropological Bone Samples," Joint Mathematics Meeting of the American Mathematical Society and Mathematical Association of America, Baltimore, Maryland, January 2019. *Awarded Outstanding Poster, MAA Student Poster Session.*
 
