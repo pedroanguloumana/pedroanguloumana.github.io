@@ -37,7 +37,7 @@ pagination: false
 ### Manuscripts in Preparation & in Press
 
 1. Do-Yeon Kim, Daehyun Kim, and **Pedro Angulo-Umana**. Tropical convective rain becomes more localized under global warming. *In preparation.*
-2. **Pedro Angulo-Umana**, Daehyun Kim, Peter N. Blossey, and Do-Yeon Kim. Morphological characteristics of tropical precipitation features producing extreme instantaneous rain rates in GPM and DYAMOND global storm resolving models. *In revision.*
+2. **Pedro Angulo-Umana**, Daehyun Kim, Peter N. Blossey, and Do-Yeon Kim. Morphological characteristics of tropical precipitation features producing extreme instantaneous rain rates in GPM and DYAMOND global storm resolving models. *Accepted*
 
 ### Published Articles
 
@@ -119,6 +119,7 @@ Facilitator in the Peer-Assisted Learning (PAL) program[^pal] at the University 
 
 ### Reviewing
 - *Journal of Geophysical Research - Atmospheres*
+
 
 ## Awards and Honors
 - Distinguished Service Award, UW Department of Atmospheric Sciences, 2022.
