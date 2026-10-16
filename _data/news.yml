@@ -1,4 +1,10 @@
 - date: "October 2026"
+  text: "I presented a talk on my work on tropical extreme precipitation at the [2026 Asian Conference on Meteorology](https://www.komes.or.kr:50000/acm2026/index.html) in Gyeongju, South Korea."
+  images:
+    - src: assets/images/acm_banner.jpg
+      class: wide
+
+- date: "October 2026"
   text: "My paper, \"Morphological Characteristics of Tropical Precipitation Features Producing Extreme Instantaneous Rain Rates in GPM and DYAMOND Global Storm Resolving Models\", has been published in [GRL](https://doi.org/10.1029/2026GL124306)."
 
 
